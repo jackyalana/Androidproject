@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item >促销</item>
+        <item >辣条</item>
+        <item >薯片</item>
+        <item >饮料</item>
+        <item >糖类</item>
+        <item >轻食</item>
+    </string-array>
+</resources>
